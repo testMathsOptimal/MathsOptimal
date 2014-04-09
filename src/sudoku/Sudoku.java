@@ -2,7 +2,7 @@ package sudoku;
 /**
  *  Jean René 
  *  12/12/2002
- *  Facil
+ *  Facile
  */
 /**
      * This program is executed in the following way:
