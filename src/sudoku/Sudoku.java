@@ -8,7 +8,7 @@ package sudoku;
      * This program is executed in the following way:
      *    java SudokuSolver <input-file>
      * For details of the input-file format,see the Grid.java class.
-     * OK tout va 
+     * OK tout va
      * @author  Patrick Chan
      * @version 1,12/31/05
      * @see Grid
@@ -74,6 +74,7 @@ package sudoku;
         private static void printSolutions(Grid grid,List<Grid> solutions) {
             // Print the grid with the givens
             System.out.println("Original");
+            System.out.println("lol");
             System.out.println(grid);
 
             // Print the solution
