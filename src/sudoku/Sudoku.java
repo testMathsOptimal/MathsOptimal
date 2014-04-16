@@ -9,6 +9,7 @@ package sudoku;
      *    java SudokuSolver <input-file>
      * For details of the input-file format,see the Grid.java class.
      * OK tout va bien merci nikel chrome
+     * Lucas va défiler à la GayPride !!! =D
      * @author  Patrick Chan
      * @version 1,12/31/05
      * @see Grid
