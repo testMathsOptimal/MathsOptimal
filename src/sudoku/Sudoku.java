@@ -74,7 +74,7 @@ package sudoku;
         private static void printSolutions(Grid grid,List<Grid> solutions) {
             // Print the grid with the givens
             System.out.println("Original");
-           System.out.println("lol");
+           // System.out.println("lol");
             System.out.println(grid);
 
             // Print the solution
