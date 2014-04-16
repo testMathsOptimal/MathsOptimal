@@ -36,11 +36,6 @@ package sudoku;
 
                 printSolutions(grid,solutions);
             }
-            int i=0;
-            while(i<10){
-                System.out.println("Matthias le gay");
-                i++;
-            }
         }
 
         // Recursive routine that
