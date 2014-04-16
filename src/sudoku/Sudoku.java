@@ -17,10 +17,10 @@ package sudoku;
     import java.util.*;
 
     public class Sudoku {
-        public static void main(String[] args) throws Exception {
+        public static void main(String[] Args) throws Exception {
             // Open the file containing the givens
-            File file = new File(args[0]);
-            FileReader rd = new FileReader(args[0]);
+            File file = new File(Args[0]);
+            FileReader rd = new FileReader(Args[0]);
 
             // Process each grid in the file
             while (true) {
@@ -74,7 +74,7 @@ package sudoku;
         private static void printSolutions(Grid grid,List<Grid> solutions) {
             // Print the grid with the givens
             System.out.println("Original");
-           // System.out.println("lol");
+            System.out.println("lol");
             System.out.println(grid);
 
             // Print the solution
