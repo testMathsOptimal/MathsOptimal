@@ -8,7 +8,7 @@ package sudoku;
      * This program is executed in the following way:
      *    java SudokuSolver <input-file>
      * For details of the input-file format,see the Grid.java class.
-     * OK tout va bien merci
+     * OK tout va bien merci nikel chrome
      * @author  Patrick Chan
      * @version 1,12/31/05
      * @see Grid
